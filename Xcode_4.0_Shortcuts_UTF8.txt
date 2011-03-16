@@ -1,0 +1,258 @@
+*********************************************************************
+*    Xcode Keyboard Shortcuts                                       * 
+*********************************************************************
+*    Created by Colin Wheeler 2/25/08                               *
+*    cocoasamurai@gmail.com                                         *
+*    Updated 9 March 2011 for Xcode 4.0                             *
+*********************************************************************
+*    Text conversion by JWP 14 March 2011                           *
+*    Open using UTF-8 encoding to enable correct display            *
+*********************************************************************
+
+Xcode App Shortcuts
+=====================================================================
+Preferences _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ ,
+Hide Xcode  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ H
+Hide Others _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ H
+Quit Xcode  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ Q
+
+
+File
+=====================================================================
+New Tab  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ T
+New Window  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ T
+New File _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ N
+New Project _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ N
+New Workspace  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ N
+New Group   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ N
+Add Files   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ A
+Open  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ O
+Open Quickly...   _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ O
+Open This Quickly...    _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ O
+Close Window   _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ W
+Close All Windows _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ W
+Close Tab   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ W
+Close Other Tabs  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ W
+Close Document _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ W
+Save  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ S
+Save All _  _  _  _  _  _  -  _  _  _  _  _  _  _  _  ⌥ ⌘ S
+Save Multiple  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ S
+Save As  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ S
+Commit...   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ C
+Update...   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ X
+Update All  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌥ ⌘ X
+Create Snapshot   _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ S
+Page Setup  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ P
+Print _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ P
+
+
+Edit
+=====================================================================
+Undo  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ Z
+Redo  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ Z
+Cut   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ X
+Copy  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ C
+Paste _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ V
+Paste Special  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ V
+Paste and Match Style   _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ V
+Duplicate   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ D
+Select All  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ A
+Find in Workspace... _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ F
+Find and Replace in Workspace... _  _  _  _  _  _  _  ⌥ ⇧ ⌘ F
+Find  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ F
+Find and Replace...  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ F
+Find Next   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ G
+Find Previous  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ G
+Use Selection for Find  _  _  _  _  _  _  _  _  _  _  ⌘ E
+Use Selection for Replace  _  _  _  _  _  _  _  _  _  ⇧ ⌘ E
+Filter in Navigator  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ J
+Filter in Library _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ L
+Show Fonts  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⇧ ⌘ T
+Show Spelling & Grammar _  _  _  _  _  _  _  _  _  _  ⌘ : 
+
+
+View
+=====================================================================
+Project  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 1
+Symbol   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 2
+Search   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 3
+Issue _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 4
+Debug _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 5
+Breakpoint  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 6
+Log   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 7
+Show Navigator _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ 0
+Standard _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ ↩
+Assistant   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ ↩
+Version  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌥ ⌘ ↩
+Show Related Items   _  _  _  _  _  _  _  _  _  _  _  ⌃ 1
+Show Previous History   _  _  _  _  _  _  _  _  _  _  ⌃ 2
+Show Previous Files History   _  _  _  _  _  _  _  _  ⌃ ⌘ 2
+Show Next History _  _  _  _  _  _  _  _  _  _  _  _  ⌃ 3
+Show Next Files History _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ 3
+Show Top Level Items    _  _  _  _  _  _  _  _  _  _  ⌃ 4
+Show Group Files  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ 5
+Show Document Items  _  _  _  _  _  _  _  _  _  _  _  ⌃ 6
+Show Issues _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ 7
+Remove Assistant Editor _  _  _  _  _  _  _  _  _  _  ⌃ ⇧ ⌘ W
+Reset Editor   _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ Z
+Show Debug Area   _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ Y
+
+
+Navigate
+=====================================================================
+Reveal in Project Navigator   _  _  _  _  _  _  _  _  ⇧ ⌘ J
+Open In...  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ ,
+Open In...  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ <
+Move Focus to Next Area _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ . 
+Move Focus to Previous Area   _  _  _  _  _  _  _  _  ⌥ ⌘ > 
+Move Focus to Editor... _  _  _  _  _  _  _  _  _  _  ⌘ J
+Go Forward  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ →
+Go Forward (option)  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌥ ⌘ →
+Go Forward (shift + option)   _  _  _  _  _  _  _  _  ⌃ ⌥ ⇧ ⌘ →
+Jump to Selection _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ L 
+Jump to Definition   _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ D
+Jump to Definition (option)   _  _  _  _  _  _  _  _  ⌃ ⌥ ⌘ D
+Jump to Definition (shift + option) _  _  _  _  _  _  ⌃ ⌥ ⇧ ⌘ D
+Jump to Next Issue   _  _  _  _  _  _  _  _  _  _  _  ⌘ ' 
+Fix Next Issue _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ '
+Jump to Previous Issue  _  _  _  _  _  _  _  _  _  _  ⌘ "
+Fix Previous Issue   _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ " 
+
+
+Navigate for Source Code
+=====================================================================
+Jump to Next Counterpart   _  _  _  _  _  _  _  _  _  ⌃ ⌘ ↑
+Jump to Next Counterpart (option)   _  _  _  _  _  _  ⌃ ⌥ ⌘ ↑
+Jump to Next Counterpart (shift + option) _  _  _  _  ⌃ ⌥ ⇧ ⌘ ↑
+Jump to Previous Counterpart  _  _  _  _  _  _  _  _  ⌃ ⌘ ↓
+Jump to Previous Counterpart (option)  _  _  _  _  _  ⌃ ⌥  ⌘ ↓
+Jump to Previous Counterpart (shift + option)   _  _  ⌃ ⌥ ⇧ ⌘ ↓
+Jump To...  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ L
+Jump to Next Placeholder   _  _  _  _  _  _  _  _  _  ⌃ /
+Jump to Previous Placeholder  _  _  _  _  _  _  _  _  ⌃ ?
+
+
+Editor Menu for Data Model
+=====================================================================
+Add Attribute  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ A
+Jump to Next Counterpart   _  _  _  _  _  _  _  _  _  ⌃ ⌘ R
+
+
+Editor Menu for Hex
+=====================================================================
+Overwrite Mode _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ O
+
+
+Editor Menu for Interface Builder
+=====================================================================
+Align Left Edges  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ [
+ALign Right Edges _  _  _  _  _  _  _  _  _  _  _  _  ⌘ ]
+Size to Fit _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ =
+Add Horizontal Guide _  _  _  _  _  _  _  _  _  _  _  ⌘ _
+Add Vertical Guide   _  _  _  _  _  _  _  _  _  _  _  ⌘ |
+
+
+Editor Menu for PDF
+=====================================================================
+Next Page   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ ↓
+Previous Page  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ ↑
+
+
+Editor Menu for Scripting Definition
+=====================================================================
+Make Text Bigger  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ +
+Make Text Smaller    _  _  _  _  _  _  _  _  _  _  _  ⌘ -
+
+
+Editor Menu for Source Code
+=====================================================================
+Show Completions  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ Space
+Edit All in Scope _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ E
+Fix All in Scope  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ F
+Show All Issues   _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ M
+Re-Indent   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ |
+Shift Right _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ ]
+Shift Left  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ [
+Move Line Up   _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥  ⌘ [
+Move Line Down _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥  ⌘ ]
+Comment Selection _  _  _  _  _  _  _  _  _  _  _  _  ⌘ /
+Fold  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘  ←
+Unfold   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ →
+Fold Methods & Functions   _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘  ←
+Unfold Methods & Functions _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ →
+Fold Comment Blocks  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⇧ ⌘  ←
+Unfold Comment Blocks   _  _  _  _  _  _  _  _  _  _  ⌃ ⇧ ⌘ →
+
+
+Product Menu
+=====================================================================
+Run   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ R
+Run...   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ R
+Test  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ U
+Test...  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ U
+Profile  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ |
+Profile...  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⌘ |
+Analyze  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ B
+Analyze...  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ B
+Build for Running _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ R
+Build for Testing _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ U
+Build for Profiling  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ |
+Run without Building _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ R
+Test without Building   _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ U
+Profile without Building   _  _  _  _  _  _  _  _  _  ⌃ ⌘ |
+Build _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ B
+Clean _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ K
+Clean Build Folder...   _  _  _  _  _  _  _  _  _  _  ⌥ ⇧ ⌘ K
+Stop  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ .
+Pause _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⌘ Y
+Step Into   _  _  _  _  _  _  _  _  _  _  _  _  _  _  F7
+Step Over   _  _  _  _  _  _  _  _  _  _  _  _  _  _  F6
+Step Out _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  F8
+Step Into Thread  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⇧ F7
+Step Into Instruction   _  _  _  _  _  _  _  _  _  _  ⌃ F7
+Step Over Thread  _  _  _  _  _  _  _  _  _  _  _  _  ⌃ ⇧ F6
+Step Over Instruction   _  _  _  _  _  _  _  _  _  _  ⌃ F6
+Add Breakpoint at Current Line   _  _  _  _  _  _  _  ⌘ \
+Activate Breakpoints _  _  _  _  _  _  _  _  _  _  _  ⌘ Y
+Clear Console  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ K
+Edit Scheme _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ <
+
+
+Window Menu
+=====================================================================
+Minimize _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⌘ M  
+Select Next Tab   _  _  _  _  _  _  _  _  _  _  _  _  ⌘ }
+Select Previous Tab  _  _  _  _  _  _  _  _  _  _  _  ⌘ {
+Welcome to Xcode  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ 1
+Organizer   _  _  _  _  _  _  _  _  _  _  _  _  _  _  ⇧ ⌘ 2
+
+
+Help Menu
+=====================================================================
+Documentation and API Reference  _  _  _  _  _  _  _  ⌥ ⌘ ?
+Quick Help for Selected Item  _  _  _  _  _  _  _  _  ⌃ ⌘ ?
+Search Documentation for Selected Text _  _  _  _  _  ⌃ ⌥ ⌘ /
+
+
+Code Completion
+=====================================================================
+Select Previous Completion _  _  _  _  _  _  _  _  _  ⌃ >
+Select Next Completion  _  _  _  _  _  _  _  _  _  _  ⌃ .
+Show Completion List _  _  _  _  _  _  _  _  _  _  _  F5, ⌥ ⎋
+
+
+=================================
+= Xcode Shortcuts Guide
+=================================
+
+Created by Colin Wheeler
+www.cocoasamurai.com
+
+The Xcode Shortcuts Guide is licensed under the
+Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License 
+( http://creativecommons.org/licenses/by-nc-sa/3.0/ .) 
+
+Although it's not required I ask if you make a derivative work to just let me 
+know at cocoasamurai@gmail.com. 
+
+Have fun!
