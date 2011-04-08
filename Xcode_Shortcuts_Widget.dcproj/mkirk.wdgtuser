@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CYLastWindowPosition</key>
+	<string>{277, 201}</string>
+	<key>ContentSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>8</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {2074, 1024}}</string>
+			<string>{{0, 1034}, {2074, 439}}</string>
+		</array>
+	</dict>
+	<key>ContentViewType</key>
+	<integer>5</integer>
+	<key>DeploymentOptions</key>
+	<dict>
+		<key>Destination</key>
+		<string>localhost.default</string>
+		<key>EmailToNotifyAddress</key>
+		<string>mklists@gmail.com</string>
+		<key>SavePath</key>
+		<string>/Users/mkirk/work/Xcode-Keyboard-Shortcuts</string>
+		<key>WidgetDeployName</key>
+		<string>Xcode_Shortcuts</string>
+		<key>enableSimulation</key>
+		<true/>
+		<key>simulatedHost</key>
+		<string>albus.local</string>
+	</dict>
+	<key>Design time language</key>
+	<string>en.lproj</string>
+	<key>MainSplitViewGeometry</key>
+	<dict>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {244, 1494}}</string>
+			<string>{{245, 0}, {2075, 1494}}</string>
+		</array>
+	</dict>
+	<key>MainWindowFrame</key>
+	<string>0 63 2319 1515 0 0 2560 1578 </string>
+	<key>NavigatorSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>5</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {246, 596}}</string>
+			<string>{{0, 606}, {246, 867}}</string>
+		</array>
+	</dict>
+	<key>Widget</key>
+	<dict>
+		<key>Objects view expanded items</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</array>
+		<key>Objects view last selections</key>
+		<array>
+			<array>
+				<integer>9223372036854775807</integer>
+			</array>
+		</array>
+		<key>Visible StackLayout Views</key>
+		<array>
+			<string>back</string>
+		</array>
+	</dict>
+</dict>
+</plist>
