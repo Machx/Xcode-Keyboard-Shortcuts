@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cheatsheet SYSTEM "http://cheatsheetviewer.com/cheatsheet.dtd">
+<cheatsheet>
+	<info>
+		<name>Xcode Keyboard Shortcuts</name>
+		<author>Colin Wheeler cocoasamurai@gmail.com</author>
+		<website>http://github.com/Machx/Xcode-Keyboard-Shortcuts</website>
+		<original_file>https://github.com/carlbrown/Xcode-Keyboard-Shortcuts/raw/master/Xcode_4.0_Shortcuts_iPad_CheatSheetViewer.com.xml</original_file>
+	</info>
+	<section title="Xcode App Shortcuts">
+		<item>
+			<text>Preferences</text>
+			<text pos="right">&#8984; ,</text>
+		</item>
+		<item>
+			<text>Hide Xcode</text>
+			<text pos="right">&#8984; H</text>
+		</item>
+		<item>
+			<text>Hide Others</text>
+			<text pos="right">&#x2325; &#8984; H</text>
+		</item>
+		<item>
+			<text>Quit Xcode</text>
+			<text pos="right">&#8984; Q</text>
+		</item>
+	</section>
+	<section title="File">
+		<item>
+			<text>New Tab</text>
+			<text pos="right">&#8984; T</text>
+		</item>
+		<item>
+			<text>New Window</text>
+			<text pos="right">&#x21E7; &#8984; T</text>
+		</item>
+		<item>
+			<text>New File</text>
+			<text pos="right">&#8984; N</text>
+		</item>
+		<item>
+			<text>New Project</text>
+			<text pos="right">&#x21E7; &#8984; N</text>
+		</item>
+		<item>
+			<text>New Workspace</text>
+			<text pos="right">&#x2227; &#8984; N</text>
+		</item>
+		<item>
+			<text>New Group</text>
+			<text pos="right">&#x2325; &#8984; N</text>
+		</item>
+		<item>
+			<text>Add Files</text>
+			<text pos="right">&#x2325; &#8984; A</text>
+		</item>
+		<item>
+			<text>Open</text>
+			<text pos="right">&#8984; O</text>
+		</item>
+		<item>
+			<text>Open Quickly...</text>
+			<text pos="right">&#x21E7; &#8984; O</text>
+		</item>
+		<item>
+			<text>Open This Quickly...</text>
+			<text pos="right">&#x2227; &#8984; O</text>
+		</item>
+		<item>
+			<text>Close Window</text>
+			<text pos="right">&#8984; W</text>
+		</item>
+		<item>
+			<text>Close All Windows</text>
+			<text pos="right">&#x2325; &#8984; W</text>
+		</item>
+		<item>
+			<text>Close Tab</text>
+			<text pos="right">&#x21E7; &#8984; W</text>
+		</item>
+		<item>
+			<text>Close Other Tabs</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; W</text>
+		</item>
+		<item>
+			<text>Close Document</text>
+			<text pos="right">&#x2227; &#8984; W</text>
+		</item>
+		<item>
+			<text>Save</text>
+			<text pos="right">&#8984; S</text>
+		</item>
+		<item>
+			<text>Save All</text>
+			<text pos="right">&#x2325; &#8984; S</text>
+		</item>
+		<item>
+			<text>Save Multiple</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; S</text>
+		</item>
+		<item>
+			<text>Save As</text>
+			<text pos="right">&#x21E7; &#8984; S</text>
+		</item>
+		<item>
+			<text>Commit...</text>
+			<text pos="right">&#x2325; &#8984; C</text>
+		</item>
+		<item>
+			<text>Update...</text>
+			<text pos="right">&#x2325; &#8984; X</text>
+		</item>
+		<item>
+			<text>Update All</text>
+			<text pos="right">&#x2227; &#x2325; &#8984; X</text>
+		</item>
+		<item>
+			<text>Create Snapshot</text>
+			<text pos="right">&#x2227; &#8984; S</text>
+		</item>
+		<item>
+			<text>Page Setup</text>
+			<text pos="right">&#x21E7; &#8984; P</text>
+		</item>
+		<item>
+			<text>Print</text>
+			<text pos="right">&#8984; P</text>
+		</item>
+	</section>
+	<section title="Edit">
+		<item>
+			<text>Undo</text>
+			<text pos="right">&#8984; Z</text>
+		</item>
+		<item>
+			<text>Redo</text>
+			<text pos="right">&#x21E7; &#8984; Z</text>
+		</item>
+		<item>
+			<text>Cut</text>
+			<text pos="right">&#8984; X</text>
+		</item>
+		<item>
+			<text>Copy</text>
+			<text pos="right">&#8984; C</text>
+		</item>
+		<item>
+			<text>Paste</text>
+			<text pos="right">&#8984; V</text>
+		</item>
+		<item>
+			<text>Paste Special</text>
+			<text pos="right">&#x2325; &#8984; V</text>
+		</item>
+		<item>
+			<text>Paste and Match Style</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; V</text>
+		</item>
+		<item>
+			<text>Duplicate</text>
+			<text pos="right">&#8984; D</text>
+		</item>
+		<item>
+			<text>Select All</text>
+			<text pos="right">&#8984; A</text>
+		</item>
+		<item>
+			<text>Find in Workspace...</text>
+			<text pos="right">&#x21E7; &#8984; F</text>
+		</item>
+		<item>
+			<text>Find and Replace in Workspace...</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; F</text>
+		</item>
+		<item>
+			<text>Find</text>
+			<text pos="right">&#8984; F</text>
+		</item>
+		<item>
+			<text>Find and Replace...</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; F</text>
+		</item>
+		<item>
+			<text>Find Next</text>
+			<text pos="right">&#8984; G</text>
+		</item>
+		<item>
+			<text>Find Previous</text>
+			<text pos="right">&#x21E7; &#8984; G</text>
+		</item>
+		<item>
+			<text>Use Selection for Find</text>
+			<text pos="right">&#8984; E</text>
+		</item>
+		<item>
+			<text>Use Selection for Replace</text>
+			<text pos="right">&#x21E7; &#8984; E</text>
+		</item>
+		<item>
+			<text>Filter in Navigator</text>
+			<text pos="right">&#x2325; &#8984; J</text>
+		</item>
+		<item>
+			<text>Filter in Library</text>
+			<text pos="right">&#x2325; &#8984; L</text>
+		</item>
+		<item>
+			<text>Show Fonts</text>
+			<text pos="right">&#x2227; &#x21E7; &#8984; T</text>
+		</item>
+		<item>
+			<text>Show Spelling &amp; Grammar</text>
+			<text pos="right">&#8984; : </text>
+		</item>
+	</section>
+	<section title="View">
+		<item>
+			<text>Project</text>
+			<text pos="right">&#8984; 1</text>
+		</item>
+		<item>
+			<text>Symbol</text>
+			<text pos="right">&#8984; 2</text>
+		</item>
+		<item>
+			<text>Search</text>
+			<text pos="right">&#8984; 3</text>
+		</item>
+		<item>
+			<text>Issue</text>
+			<text pos="right">&#8984; 4</text>
+		</item>
+		<item>
+			<text>Debug</text>
+			<text pos="right">&#8984; 5</text>
+		</item>
+		<item>
+			<text>Breakpoint</text>
+			<text pos="right">&#8984; 6</text>
+		</item>
+		<item>
+			<text>Log</text>
+			<text pos="right">&#8984; 7</text>
+		</item>
+		<item>
+			<text>Show Navigator</text>
+			<text pos="right">&#8984; 0</text>
+		</item>
+		<item>
+			<text>Standard</text>
+			<text pos="right">&#8984; &#x21A9;</text>
+		</item>
+		<item>
+			<text>Assistant</text>
+			<text pos="right">&#x2325; &#8984; &#x21A9;</text>
+		</item>
+		<item>
+			<text>Version</text>
+			<text pos="right">&#x21E7; &#x2325; &#8984; &#x21A9;</text>
+		</item>
+		<item>
+			<text>Show Related Items</text>
+			<text pos="right">&#x2227; 1</text>
+		</item>
+		<item>
+			<text>Show Previous History</text>
+			<text pos="right">&#x2227; 2</text>
+		</item>
+		<item>
+			<text>Show Previous Files History</text>
+			<text pos="right">&#x2227; &#8984; 2</text>
+		</item>
+		<item>
+			<text>Show Next History</text>
+			<text pos="right">&#x2227; 3</text>
+		</item>
+		<item>
+			<text>Show Next Files History</text>
+			<text pos="right">&#x2227; &#8984; 3</text>
+		</item>
+		<item>
+			<text>Show Top Level Items</text>
+			<text pos="right">&#x2227; 4</text>
+		</item>
+		<item>
+			<text>Show Group Files</text>
+			<text pos="right">&#x2227; 5</text>
+		</item>
+		<item>
+			<text>Show Document Items</text>
+			<text pos="right">&#x2227; 6</text>
+		</item>
+		<item>
+			<text>Show Issues</text>
+			<text pos="right">&#x2227; 7</text>
+		</item>
+		<item>
+			<text>Remove Assistant Editor</text>
+			<text pos="right">&#x2227; &#x21E7; &#8984; W</text>
+		</item>
+		<item>
+			<text>Reset Editor</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; Z</text>
+		</item>
+		<item>
+			<text>Show Debug Area</text>
+			<text pos="right">&#x2227; &#8984; Y</text>
+		</item>
+	</section>
+	<section title="Navigate">
+		<item>
+			<text>Reveal in Project Navigator</text>
+			<text pos="right">&#x21E7; &#8984; J</text>
+		</item>
+		<item>
+			<text>Open In...</text>
+			<text pos="right">&#x2325; &#8984; ,</text>
+		</item>
+		<item>
+			<text>Open In...</text>
+			<text pos="right">&#x2325; &#8984; &lt;</text>
+		</item>
+		<item>
+			<text>Move Focus to Next Area</text>
+			<text pos="right">&#x2325; &#8984; . </text>
+		</item>
+		<item>
+			<text>Move Focus to Previous Area</text>
+			<text pos="right">&#x2325; &#8984; &gt; </text>
+		</item>
+		<item>
+			<text>Move Focus to Editor...</text>
+			<text pos="right">&#8984; J</text>
+		</item>
+		<item>
+			<text>Go Forward</text>
+			<text pos="right">&#x2325; &#8984; &#x2192;</text>
+		</item>
+		<item>
+			<text>Go Forward (option)</text>
+			<text pos="right">&#x2227; &#x2325; &#8984; &#x2192;</text>
+		</item>
+		<item>
+			<text>Go Forward (shift + option)</text>
+			<text pos="right">&#x2227; &#x2325; &#x21E7; &#8984; &#x2192;</text>
+		</item>
+		<item>
+			<text>Jump to Selection</text>
+			<text pos="right">&#x21E7; &#8984; L </text>
+		</item>
+		<item>
+			<text>Jump to Definition</text>
+			<text pos="right">&#x2227; &#8984; D</text>
+		</item>
+		<item>
+			<text>Jump to Definition (option)</text>
+			<text pos="right">&#x2227; &#x2325; &#8984; D</text>
+		</item>
+		<item>
+			<text>Jump to Definition (shift + option)</text>
+			<text pos="right">&#x2227; &#x2325; &#x21E7; &#8984; D</text>
+		</item>
+		<item>
+			<text>Jump to Next Issue</text>
+			<text pos="right">&#8984; ' </text>
+		</item>
+		<item>
+			<text>Fix Next Issue</text>
+			<text pos="right">&#x2227; &#8984; '</text>
+		</item>
+		<item>
+			<text>Jump to Previous Issue</text>
+			<text pos="right">&#8984; "</text>
+		</item>
+		<item>
+			<text>Fix Previous Issue</text>
+			<text pos="right">&#x2227; &#8984; " </text>
+		</item>
+	</section>
+	<section title="Credits">
+		<item>
+			<text>Created by Colin Wheeler www.cocoasamurai.com</text>
+		</item>
+		<item>
+			<text>The Xcode Shortcuts Guide is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License ( http://creativecommons.org/licenses/by-nc-sa/3.0/ .)</text>
+		</item>
+		<item>
+			<text>Although it's not required I ask if you make a derivative work to just let me know at cocoasamurai@gmail.com. </text>
+		</item>
+	</section>
+	<split/>
+	<section title="Navigate for Source Code">
+		<item>
+			<text>Jump to Next Counterpart</text>
+			<text pos="right">&#x2227; &#8984; &#x2191;</text>
+		</item>
+		<item>
+			<text>Jump to Next Counterpart (option)</text>
+			<text pos="right">&#x2227; &#x2325; &#8984; &#x2191;</text>
+		</item>
+		<item>
+			<text>Jump to Next Counterpart (shift + option)</text>
+			<text pos="right">&#x2227; &#x2325; &#x21E7; &#8984; &#x2191;</text>
+		</item>
+		<item>
+			<text>Jump to Previous Counterpart</text>
+			<text pos="right">&#x2227; &#8984; &#x2193;</text>
+		</item>
+		<item>
+			<text>Jump to Previous Counterpart (option)</text>
+			<text pos="right">&#x2227; &#x2325;  &#8984; &#x2193;</text>
+		</item>
+		<item>
+			<text>Jump to Previous Counterpart (shift + option)</text>
+			<text pos="right">&#x2227; &#x2325; &#x21E7; &#8984; &#x2193;</text>
+		</item>
+		<item>
+			<text>Jump To...</text>
+			<text pos="right">&#8984; L</text>
+		</item>
+		<item>
+			<text>Jump to Next Placeholder</text>
+			<text pos="right">&#x2227; /</text>
+		</item>
+		<item>
+			<text>Jump to Previous Placeholder</text>
+			<text pos="right">&#x2227; ?</text>
+		</item>
+	</section>
+	<section title="Editor Menu for Data Model">
+		<item>
+			<text>Add Attribute</text>
+			<text pos="right">&#x2227; &#8984; A</text>
+		</item>
+		<item>
+			<text>Jump to Next Counterpart</text>
+			<text pos="right">&#x2227; &#8984; R</text>
+		</item>
+	</section>
+	<section title="Editor Menu for Hex">
+		<item>
+			<text>Overwrite Mode</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; O</text>
+		</item>
+	</section>
+	<section title="Editor Menu for Interface Builder">
+		<item>
+			<text>Align Left Edges</text>
+			<text pos="right">&#8984; [</text>
+		</item>
+		<item>
+			<text>ALign Right Edges</text>
+			<text pos="right">&#8984; ]</text>
+		</item>
+		<item>
+			<text>Size to Fit</text>
+			<text pos="right">&#8984; =</text>
+		</item>
+		<item>
+			<text>Add Horizontal Guide</text>
+			<text pos="right">&#8984; _</text>
+		</item>
+		<item>
+			<text>Add Vertical Guide</text>
+			<text pos="right">&#8984; |</text>
+		</item>
+	</section>
+	<section title="Editor Menu for PDF">
+		<item>
+			<text>Next Page</text>
+			<text pos="right">&#x2325; &#8984; &#x2193;</text>
+		</item>
+		<item>
+			<text>Previous Page</text>
+			<text pos="right">&#x2325; &#8984; &#x2191;</text>
+		</item>
+	</section>
+	<section title="Editor Menu for Scripting Definition">
+		<item>
+			<text>Make Text Bigger</text>
+			<text pos="right">&#8984; +</text>
+		</item>
+		<item>
+			<text>Make Text Smaller</text>
+			<text pos="right">&#8984; -</text>
+		</item>
+	</section>
+	<section title="Editor Menu for Source Code">
+		<item>
+			<text>Show Completions</text>
+			<text pos="right">&#x2227; Space</text>
+		</item>
+		<item>
+			<text>Edit All in Scope</text>
+			<text pos="right">&#x2227; &#8984; E</text>
+		</item>
+		<item>
+			<text>Fix All in Scope</text>
+			<text pos="right">&#x2227; &#8984; F</text>
+		</item>
+		<item>
+			<text>Show All Issues</text>
+			<text pos="right">&#x2227; &#8984; M</text>
+		</item>
+		<item>
+			<text>Re-Indent</text>
+			<text pos="right">&#x2227; |</text>
+		</item>
+		<item>
+			<text>Shift Right</text>
+			<text pos="right">&#8984; ]</text>
+		</item>
+		<item>
+			<text>Shift Left</text>
+			<text pos="right">&#8984; [</text>
+		</item>
+		<item>
+			<text>Move Line Up</text>
+			<text pos="right">&#x2325;  &#8984; [</text>
+		</item>
+		<item>
+			<text>Move Line Down</text>
+			<text pos="right">&#x2325;  &#8984; ]</text>
+		</item>
+		<item>
+			<text>Comment Selection</text>
+			<text pos="right">&#8984; /</text>
+		</item>
+		<item>
+			<text>Fold</text>
+			<text pos="right">&#x2325; &#8984;  &#x2190;</text>
+		</item>
+		<item>
+			<text>Unfold</text>
+			<text pos="right">&#x2325; &#8984; &#x2192;</text>
+		</item>
+		<item>
+			<text>Fold Methods &amp; Functions</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984;  &#x2190;</text>
+		</item>
+		<item>
+			<text>Unfold Methods &amp; Functions</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; &#x2192;</text>
+		</item>
+		<item>
+			<text>Fold Comment Blocks</text>
+			<text pos="right">&#x2227; &#x21E7; &#8984;  &#x2190;</text>
+		</item>
+		<item>
+			<text>Unfold Comment Blocks</text>
+			<text pos="right">&#x2227; &#x21E7; &#8984; &#x2192;</text>
+		</item>
+	</section>
+	<section title="Product Menu">
+		<item>
+			<text>Run</text>
+			<text pos="right">&#8984; R</text>
+		</item>
+		<item>
+			<text>Run...</text>
+			<text pos="right">&#x2325; &#8984; R</text>
+		</item>
+		<item>
+			<text>Test</text>
+			<text pos="right">&#8984; U</text>
+		</item>
+		<item>
+			<text>Test...</text>
+			<text pos="right">&#x2325; &#8984; U</text>
+		</item>
+		<item>
+			<text>Profile</text>
+			<text pos="right">&#8984; |</text>
+		</item>
+		<item>
+			<text>Profile...</text>
+			<text pos="right">&#x2325; &#8984; |</text>
+		</item>
+		<item>
+			<text>Analyze</text>
+			<text pos="right">&#x21E7; &#8984; B</text>
+		</item>
+		<item>
+			<text>Analyze...</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; B</text>
+		</item>
+		<item>
+			<text>Build for Running</text>
+			<text pos="right">&#x21E7; &#8984; R</text>
+		</item>
+		<item>
+			<text>Build for Testing</text>
+			<text pos="right">&#x21E7; &#8984; U</text>
+		</item>
+		<item>
+			<text>Build for Profiling</text>
+			<text pos="right">&#x21E7; &#8984; |</text>
+		</item>
+		<item>
+			<text>Run without Building</text>
+			<text pos="right">&#x2227; &#8984; R</text>
+		</item>
+		<item>
+			<text>Test without Building</text>
+			<text pos="right">&#x2227; &#8984; U</text>
+		</item>
+		<item>
+			<text>Profile without Building</text>
+			<text pos="right">&#x2227; &#8984; |</text>
+		</item>
+		<item>
+			<text>Build</text>
+			<text pos="right">&#8984; B</text>
+		</item>
+		<item>
+			<text>Clean</text>
+			<text pos="right">&#x21E7; &#8984; K</text>
+		</item>
+		<item>
+			<text>Clean Build Folder...</text>
+			<text pos="right">&#x2325; &#x21E7; &#8984; K</text>
+		</item>
+		<item>
+			<text>Stop</text>
+			<text pos="right">&#8984; .</text>
+		</item>
+		<item>
+			<text>Pause</text>
+			<text pos="right">&#x2227; &#8984; Y</text>
+		</item>
+		<item>
+			<text>Step Into</text>
+			<text pos="right">F7</text>
+		</item>
+		<item>
+			<text>Step Over</text>
+			<text pos="right">F6</text>
+		</item>
+		<item>
+			<text>Step Out</text>
+			<text pos="right">F8</text>
+		</item>
+		<item>
+			<text>Step Into Thread</text>
+			<text pos="right">&#x2227; &#x21E7; F7</text>
+		</item>
+		<item>
+			<text>Step Into Instruction</text>
+			<text pos="right">&#x2227; F7</text>
+		</item>
+		<item>
+			<text>Step Over Thread</text>
+			<text pos="right">&#x2227; &#x21E7; F6</text>
+		</item>
+		<item>
+			<text>Step Over Instruction</text>
+			<text pos="right">&#x2227; F6</text>
+		</item>
+		<item>
+			<text>Add Breakpoint at Current Line</text>
+			<text pos="right">&#8984; \</text>
+		</item>
+		<item>
+			<text>Activate Breakpoints</text>
+			<text pos="right">&#8984; Y</text>
+		</item>
+		<item>
+			<text>Clear Console</text>
+			<text pos="right">&#8984; K</text>
+		</item>
+		<item>
+			<text>Edit Scheme</text>
+			<text pos="right">&#8984; &lt;</text>
+		</item>
+	</section>
+	<section title="Window Menu">
+		<item>
+			<text>Minimize</text>
+			<text pos="right">&#8984; M  </text>
+		</item>
+		<item>
+			<text>Select Next Tab</text>
+			<text pos="right">&#8984; }</text>
+		</item>
+		<item>
+			<text>Select Previous Tab</text>
+			<text pos="right">&#8984; {</text>
+		</item>
+		<item>
+			<text>Welcome to Xcode</text>
+			<text pos="right">&#x21E7; &#8984; 1</text>
+		</item>
+		<item>
+			<text>Organizer</text>
+			<text pos="right">&#x21E7; &#8984; 2</text>
+		</item>
+	</section>
+	<section title="Help Menu">
+		<item>
+			<text>Documentation and API Reference</text>
+			<text pos="right">&#x2325; &#8984; ?</text>
+		</item>
+		<item>
+			<text>Quick Help for Selected Item</text>
+			<text pos="right">&#x2227; &#8984; ?</text>
+		</item>
+		<item>
+			<text>Search Documentation for Selected Text</text>
+			<text pos="right">&#x2227; &#x2325; &#8984; /</text>
+		</item>
+	</section>
+	<section title="Code Completion">
+		<item>
+			<text>Select Previous Completion</text>
+			<text pos="right">&#x2227; &gt;</text>
+		</item>
+		<item>
+			<text>Select Next Completion</text>
+			<text pos="right">&#x2227; .</text>
+		</item>
+		<item>
+			<text>Show Completion List</text>
+			<text pos="right">F5, &#x2325; [ESC]</text>
+		</item>
+	</section>
+</cheatsheet>
